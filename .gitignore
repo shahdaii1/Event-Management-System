@@ -1,0 +1,18 @@
+# Compiled class files & build directories
+*.class
+target/
+bin/
+build/
+out/
+
+# Serialized runtime data files
+data/
+*.dat
+
+# IDE configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
